@@ -13,4 +13,4 @@ A simple AutoHotKey script for getting Tem to college.
  - let it run
 
 ## Warning
-Do not switch windows while the script is running, it cannot detect what windows it is run in, so it will continue seding keystrokes! If you _do_ switch or you just want to stop the script, you can do that by right-clicking the AHK icon in your taskbar and choosing "pause script" or exiting AHK.
+Do not switch windows while the script is running, it cannot detect what window it is running in, so it will continue seding keystrokes! If you _do_ switch or you just want to stop the script, you can do that by right-clicking the AHK icon in your taskbar and choosing "pause script" or exiting AHK.
